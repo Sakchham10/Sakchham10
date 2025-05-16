@@ -3,7 +3,7 @@ Hi 👋 My name is Sakchham Sangroula
 
 I am a software developer. I love learning about tried and tested as well as new and trendy principles and tools of software development.
 
-* 🌍  I'm based in Oklahoma City, Oklahoma.
+* 🌍  I'm based in USA.
 * ✉️  You can contact me at [ssangroula10@outlook.com](mailto:ssangroula10@outlook.com)
 * 🧠  I'm learning about Compilers and Scalabale Backend Development.
 
